@@ -51,7 +51,7 @@ React.render(<Example name='everybody!' />, document.body);
 
   React.render( <Dwelling {...data}/>, document.body );
 ```
-![Dwelling](/images/dwelling.png)
+![Dwelling](images/dwelling.png)
 
 
 ## Everything as a component
@@ -94,7 +94,7 @@ React.render(<Example name='everybody!' />, document.body);
 # Flux
 > "Application architecture for building user interfaces"
 
-![Flux](/images/flux.png)
+![Flux](images/flux.png)
 
 
 ## Multiple Implementations
@@ -105,7 +105,7 @@ React.render(<Example name='everybody!' />, document.body);
 
 
 ## RefluxJS
-![Reflux](/images/reflux.png)
+![Reflux](images/reflux.png)
 
 
 ## Action
@@ -184,7 +184,7 @@ React.render(<Example name='everybody!' />, document.body);
 > module bundler
 
 
-![Folder](/images/webpack.png)
+![Folder](images/webpack.png)
 
 
 - Like Browserify
@@ -193,7 +193,7 @@ React.render(<Example name='everybody!' />, document.body);
 
 
 ## Encapsulated Components
-![Folder](/images/folder.png)
+![Folder](images/folder.png)
 
 
 ```javascript
@@ -229,7 +229,7 @@ let GithubAsync = React.createClass({
 
 
 ## Gives
-![Folder](/images/webpack-output.png)
+![Folder](images/webpack-output.png)
 
 
 ## Can also export your app as:
